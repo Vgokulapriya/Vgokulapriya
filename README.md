@@ -14,7 +14,7 @@ I am a motivated student pursuing master of computer applications student at New
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻.
 
- <img align="right" alt="GIF" width="512" height="384" src="assets/portfolio.gif" />
+ <img align="right" alt="GIF" width="45%" height="40%" src="assets/portfolio.gif" />
 
 ### About Me:
 - 🔭 I’m currently working on **Python**
