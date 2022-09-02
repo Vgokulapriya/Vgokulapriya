@@ -59,6 +59,15 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 </details>
 
 <details open>
+  <summary>GitHub Profile Streak</summary>
+  <br/>
+  <p align="center">
+    <img alt="Vgokulapriya's streak" src="https://github-readme-streak-stats.herokuapp.com?user=vgokulapriya&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  </p>
+  <br/>
+</details>
+
+<details open>
   <summary>GitHub Trophy Stats</summary>
   <br/>
   <p align="center">
